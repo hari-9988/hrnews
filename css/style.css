@@ -141,7 +141,7 @@ img, video {
 
 /* Home Start *********************************************/
 .home {
-    background-image: url(../images/banner.png);
+    background-image: url(banner.png);
     height: 100dvh;
     padding: 50px 0;
     display: flex;
@@ -283,7 +283,7 @@ img, video {
     text-transform: uppercase;
 }
 .golden-gradient {
-    background: url(../images/btn-bg.png);
+    background: url(btn-bg.png);
     background-size: cover;
     background-position: center;
 }
